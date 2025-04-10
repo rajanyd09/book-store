@@ -123,10 +123,5 @@ Ensure you have the following installed:
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 
-## Contact
-
-Mankaran Singh - [LinkedIn](https://www.linkedin.com/in/mankaran7) 
-
-Project Link: [https://github.com/Mankaran7/book-management](https://github.com/Mankaran7/book-management)
 
 
